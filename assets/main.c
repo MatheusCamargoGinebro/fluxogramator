@@ -12,7 +12,7 @@ int main(void)
     printf("\nBem vindos ao instituto federal!\n");
 
 
-    printf("\nOBS: levem na brincadeira >:)\n\n");
+    printf("\nAssinado com amor, The Ifers.\n\n");
 
     system("pause");
     system("cls");
