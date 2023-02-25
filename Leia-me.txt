@@ -13,3 +13,5 @@ Como funciona:
  Exemplo: "Crie um fluxograma que recebe duas variáveis (%num1 & %num2) e que as some, exibindo o resultado".
 
  - O programa irá usar a API do chatGPT para gerar o fluxograma, e o colocará em um arquivo png, que é acessível pela área de transferência (CTRL+V).
+
+--OBS: NÃO ABRIR NOS COMPUTADORES DA ESCOLA.
