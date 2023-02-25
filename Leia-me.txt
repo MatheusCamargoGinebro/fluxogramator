@@ -1,0 +1,15 @@
+Olá!
+  Esta é uma versão beta de um programa feito por alguns alunos 2* ano de informática do IFSP, que tem como função principal gerar um fluxograma com base em uma string  (cadeia de caracteres (texto)) digitada pelo usuário, e algumas variáveis (declaradas também pelo usuário).
+
+
+Como funciona:
+ -Clique no ícone com nome "Fluxogramer".
+
+ -Espere gerar a mensagem de boas vindas.
+
+ -Aperte qualquer tecla.
+
+ -Digite o problema que você quer resolver.
+ Exemplo: "Crie um fluxograma que recebe duas variáveis (%num1 & %num2) e que as some, exibindo o resultado".
+
+ - O programa irá usar a API do chatGPT para gerar o fluxograma, e o colocará em um arquivo png, que é acessível pela área de transferência (CTRL+V).
