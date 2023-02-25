@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677337910 source:c:\repositórios\codigos_em_c\2023\projetos\fluxogramator\assets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
