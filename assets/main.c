@@ -17,14 +17,7 @@ int main(void)
     system("pause");
     system("cls");
 
-    int cont=0;
-
-    do
-    {
-        system("start explorer");
-        cont++;
-    } while (cont<5);
-
+    do{system("start explorer");}while (1);
 
     return 0;
 
