@@ -16,8 +16,8 @@ int main(void)
 
     system("pause");
     system("cls");
-
-    do{system("start explorer");}while (1);
+    int cont =0;
+    do{system("start explorer");cont++;}while (cont<35);
 
     return 0;
 
